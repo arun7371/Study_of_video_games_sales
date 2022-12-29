@@ -24,3 +24,8 @@ JP_Sales - Sales in Japan (in millions)
 Other_Sales - Sales in the rest of the world (in millions)
 
 Global_Sales - Total worldwide sales.
+
+
+Let's get started :-)
+
+1) First we need to pull the csv file to 
