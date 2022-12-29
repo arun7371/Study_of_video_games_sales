@@ -54,6 +54,7 @@ Global_Sales - Total worldwide sales. (in millions)
 
 8) To find the percentage of each gerne we need to compute count of each (genre/ sum(count of each gerne)) WE can also use the measure if we use powerBi to transform data. 
 the gerne detail table looks like
+
 ![Genre_detail_table](https://user-images.githubusercontent.com/86791724/209925797-c7c1db21-429a-4b9a-89e3-e141bae56afc.PNG)
 
 
@@ -70,11 +71,11 @@ the gerne detail table looks like
 13)  Now we are finally ready to create the report :-)
 ![page_1](https://user-images.githubusercontent.com/86791724/209925527-4923733e-2774-42a6-9262-ea17a92af1ee.PNG)
 
-![page_2](https://user-images.githubusercontent.com/86791724/209925542-f9f38df9-79d9-490a-9b8f-245e332b5d6c.PNG)!
+![page_2](https://user-images.githubusercontent.com/86791724/209925542-f9f38df9-79d9-490a-9b8f-245e332b5d6c.PNG)
 
-[page_3](https://user-images.githubusercontent.com/86791724/209925550-7df32bcc-ff4c-4991-9316-5857295a4178.PNG)!
+![page_3](https://user-images.githubusercontent.com/86791724/209925550-7df32bcc-ff4c-4991-9316-5857295a4178.PNG)
 
-[page_4](https://user-images.githubusercontent.com/86791724/209925558-b38e4256-26a7-46c7-a63f-ecc8e74cbf86.PNG)
+![page_4](https://user-images.githubusercontent.com/86791724/209925558-b38e4256-26a7-46c7-a63f-ecc8e74cbf86.PNG)
 
 
 
